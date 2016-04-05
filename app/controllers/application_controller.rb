@@ -17,3 +17,6 @@ class ApplicationController < ActionController::Base
     redirect_to foursquare_url unless logged_in?
   end
 end
+
+
+#what is CGI?
